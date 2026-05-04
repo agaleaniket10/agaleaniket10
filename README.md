@@ -1,6 +1,6 @@
 # Hi, I'm Aniket 👋
 
-I build AI systems — RAG pipelines, LLM agents, search engines, and data infrastructure — with a focus on production quality, observability, and privacy-first design.
+I build AI systems such as RAG pipelines, LLM agents, search engines, and data infrastructure with a focus on production quality, observability, and privacy-first design.
 
 ---
 
