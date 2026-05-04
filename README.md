@@ -32,4 +32,4 @@ I build AI systems such as RAG pipelines, LLM agents, search engines, and data i
 
 ---
 
-*All projects run locally or on your own infrastructure — no vendor lock-in, no data leaving your environment.*
+*All projects run locally or on your own infrastructure with no vendor lock-in, no data leaving your environment.*
